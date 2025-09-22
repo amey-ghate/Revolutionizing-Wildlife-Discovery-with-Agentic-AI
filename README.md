@@ -84,7 +84,7 @@ File Structure
 
 *   app.py: Streamlit UI + calls into the agentic graph
 
-*  helpers.py:  # iNat/Wiki utils, ranking, auto-broaden fetch, LangGraph build
+*  helpers.py: iNat/Wiki utils, ranking, auto-broaden fetch, LangGraph build
     
 *   requirements.txt: Python dependencies.
     
